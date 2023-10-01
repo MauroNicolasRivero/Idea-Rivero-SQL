@@ -1,0 +1,51 @@
+﻿id Producto;Id Proveedor;Nombre;Cantidad;Sector
+1;1;Appetizer - Tarragon Chicken;5;A-1
+2;2;Beef - Texas Style Burger;10;A-2
+3;3;Longos - Chicken Curried;15;A-3
+4;4;Salami - Genova;20;A-4
+5;5;Cookies - Englishbay Chochip;25;A-5
+6;6;Coffee - Decafenated;30;A-6
+7;7;Plate Foam Laminated 9in Blk;35;A-7
+8;8;Puree - Passion Fruit;40;A-8
+9;9;Soup - Campbells, Butternut;45;A-9
+10;10;Wine - Charddonnay Errazuriz;50;A-10
+11;11;Cod - Salted, Boneless;55;A-1
+12;12;Lime Cordial - Roses;60;A-2
+13;13;Beer - True North Strong Ale;65;A-3
+14;14;Juice - V8 Splash;70;A-4
+15;15;Doilies - 7, Paper;75;A-5
+16;16;Wine - Niagara,vqa Reisling;80;A-6
+17;17;Shallots;85;A-7
+18;18;Red Currants;90;A-8
+19;19;Thyme - Dried;95;A-9
+20;20;Cheese - Montery Jack;100;A-10
+21;21;Lumpfish Black;3;A-1
+22;22;Duck - Legs;6;A-2
+23;23;Wiberg Cure;9;A-3
+24;24;Orange - Tangerine;12;A-4
+25;25;Appetizer - Assorted Box;15;A-5
+26;26;Beef Ground Medium;18;A-6
+27;27;Cheese - Oka;21;A-7
+28;28;Pail For Lid 1537;24;A-8
+29;29;Nantucket - 518ml;27;A-9
+30;30;Wine - Zinfandel Rosenblum;30;A-10
+31;31;Spinach - Baby;33;A-1
+32;32;Island Oasis - Cappucino Mix;36;A-2
+33;33;Longos - Penne With Pesto;39;A-3
+34;34;Kumquat;42;A-4
+35;35;Soup - Campbells, Beef Barley;45;A-5
+36;36;Gatorade - Orange;48;A-6
+37;37;Bag Stand;51;A-7
+38;38;Bread Ww Cluster;54;A-8
+39;39;Cookies - Englishbay Oatmeal;57;A-9
+40;40;Mushroom - Porcini Frozen;60;A-10
+41;41;Daikon Radish;8;A-1
+42;42;The Pop Shoppe - Lime Rickey;16;A-2
+43;43;Nut - Walnut, Chopped;24;A-3
+44;44;Truffle Cups - Brown;32;A-4
+45;45;Lamb Shoulder Boneless Nz;40;A-5
+46;46;Jack Daniels;48;A-6
+47;47;Pork - Backs - Boneless;56;A-7
+48;48;Veal - Heart;64;A-8
+49;49;Olives - Black, Pitted;72;A-9
+50;50;Absolut Citron;80;A-10

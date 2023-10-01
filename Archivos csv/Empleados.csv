@@ -1,0 +1,101 @@
+﻿Id Empleado;Nombre;Domicilio;Id Localidad;Id Provincia;Telefono;Puesto;CumpleaÃ±os;Fecha de Ingreso
+1;Joey Bagster;3 Superior Junction;96;6;(421) 5310583;Recepción;1950-12-19;2006-09-21
+2;Wandie Blaker;2022 Moulton Drive;25;9;(974) 9308039;Atención al Cliente;1971-04-03;2017-01-16
+3;Shaun Olliar;848 Messerschmidt Crossing;43;24;(301) 8859178;Ventas;1952-09-05;2000-04-22
+4;Corina Danilyuk;18 Hoepker Pass;46;18;(421) 9010453;Ventas;1953-08-31;2003-07-01
+5;Lark Trighton;629 Johnson Court;14;20;(411) 1315205;Ventas;1959-05-09;2004-08-19
+6;Artemis Skryne;282 Drewry Pass;46;24;(937) 7169043;Caja;1955-03-22;2012-08-29
+7;Padget Sandford;63134 Ridgeway Alley;33;17;(384) 5225824;Caja;1979-07-22;2009-01-11
+8;Mal Roath;881 Sherman Trail;63;16;(832) 7364074;Post Venta;1986-08-17;2023-03-07
+9;Richmound Dumke;33 Muir Junction;52;19;(293) 6604820;Maestranza;1981-07-23;2003-12-12
+10;Tandy Chansonnau;8 Briar Crest Road;33;13;(192) 7887685;Depósito;1960-11-16;2016-10-21
+11;Gene Permain;356 Reindahl Place;50;26;(374) 1060773;Administración;1956-10-22;2002-06-05
+12;Stillmann Jerke;77185 Rieder Avenue;56;24;(499) 3279147;Recepción;1976-04-29;1998-09-14
+13;Bridgette Degoe;99 Westridge Plaza;66;7;(859) 9489349;Atención al Cliente;1993-12-15;2016-08-04
+14;Averill Deneve;05 Buell Court;25;6;(457) 4695241;Ventas;1972-01-31;2013-04-06
+15;Angil Sizeland;331 Esker Street;88;10;(178) 9293027;Ventas;1979-10-05;2001-10-04
+16;Beatriz Krelle;226 Manufacturers Place;27;6;(740) 4442642;Ventas;1972-09-23;2013-09-18
+17;Marylin Raisbeck;22 Lunder Plaza;64;15;(378) 7917969;Caja;1968-03-24;2023-07-22
+18;Will Perfili;30 Gale Alley;44;15;(903) 1844590;Caja;1976-02-20;1999-04-28
+19;Salem Spanton;0843 Golf Pass;88;21;(503) 3346151;Post Venta;1980-01-30;2004-10-14
+20;Ava Viegas;3 Declaration Street;56;4;(298) 6669137;Maestranza;1964-05-07;2002-06-26
+21;Erek Wennington;71 Crowley Lane;55;12;(865) 3211745;Depósito;1960-05-11;2018-07-21
+22;Daile Ivoshin;5 Steensland Plaza;59;9;(641) 5564668;Administración;1977-09-19;2018-10-08
+23;Nicola Ferriday;369 Vernon Place;23;15;(971) 3408066;Recepción;2000-10-25;1990-01-23
+24;Addi Stailey;874 Novick Lane;87;17;(884) 7549628;Atención al Cliente;1955-11-04;2018-01-15
+25;Georgeanna Heinig;968 Merry Hill;70;22;(812) 9808528;Ventas;1989-03-02;1996-06-21
+26;Worthington Adrienne;45244 Judy Court;58;26;(545) 6212873;Ventas;1993-02-27;2003-03-29
+27;Flori Bagnal;1 Gale Lane;89;8;(640) 8092712;Ventas;1999-05-21;1991-06-01
+28;Land Roads;108 Farwell Junction;99;25;(535) 6100559;Caja;1975-05-20;2015-02-25
+29;Waldo Bruton;4 Longview Place;97;21;(816) 1689838;Caja;1950-08-08;2009-04-19
+30;Lion Olohan;115 Oak Valley Terrace;43;6;(268) 1007512;Post Venta;1977-10-03;1990-05-03
+31;Elmira Binne;99 Londonderry Park;2;17;(414) 2388895;Maestranza;1952-06-02;2000-02-10
+32;Ede Drakes;80 Katie Park;46;10;(893) 8632582;Depósito;1978-12-08;2019-09-01
+33;Asa Sawkins;3720 Fallview Pass;78;10;(583) 8097058;Administración;1965-04-07;2000-03-18
+34;Diena Rosser;8 Fieldstone Place;82;3;(992) 3884851;Recepción;1975-06-10;2013-12-30
+35;Cristobal Tingcomb;3534 Mesta Road;88;24;(404) 4179387;Atención al Cliente;1992-02-17;2002-04-09
+36;Jeanna Perone;57505 Badeau Trail;77;8;(854) 1986638;Ventas;1989-07-22;2020-09-20
+37;Aurlie Mowling;8546 Pawling Trail;17;5;(552) 4818233;Ventas;1976-12-22;2018-06-23
+38;Emmy Say;5310 Buena Vista Avenue;1;24;(418) 6245779;Ventas;1993-10-25;2001-12-10
+39;Alden Fry;526 Thompson Parkway;42;25;(160) 2200351;Caja;1953-03-05;1992-06-20
+40;Rodi Downgate;3105 Westend Street;22;26;(811) 4018087;Caja;1957-05-22;2008-09-26
+41;Cary Steptowe;270 Village Center;47;6;(748) 8385872;Post Venta;1976-11-08;2015-06-07
+42;Hynda Isakovic;1 Buhler Center;36;22;(538) 5927882;Maestranza;2000-01-20;2020-04-28
+43;Elka Tether;200 Vahlen Lane;34;8;(402) 1818257;Depósito;2003-01-02;2015-07-11
+44;Sibby Ksandra;0121 Emmet Alley;31;11;(999) 9641423;Administración;1959-04-13;2019-04-15
+45;Floris Grealish;525 Paget Hill;93;26;(185) 7686753;Recepción;1986-04-19;2003-04-11
+46;Kelby Beadle;723 Main Park;28;18;(333) 5927710;Atención al Cliente;1991-10-29;1998-07-05
+47;Margret McCritichie;403 North Court;86;12;(604) 5930735;Ventas;1974-08-09;1990-07-09
+48;Blakelee Filde;7 Transport Crossing;9;11;(342) 6853457;Ventas;1995-01-07;2015-11-14
+49;Harlene Barkworth;572 Paget Terrace;86;15;(104) 6438538;Ventas;1974-05-14;2004-01-23
+50;Lorita Bengochea;1398 Stuart Center;91;13;(168) 1852033;Caja;1977-12-19;2016-09-08
+51;Patrizius Leggin;60 West Hill;78;5;(890) 4548947;Caja;1981-05-20;2020-11-28
+52;Cherey Bedford;09 Melody Alley;64;4;(430) 3342537;Post Venta;1950-01-06;1995-03-19
+53;Claudian Rogge;9 Hermina Trail;16;17;(628) 3656142;Maestranza;1972-04-11;2009-04-26
+54;Reginald Andrick;0 Main Crossing;33;3;(847) 8339020;Depósito;1993-07-15;2019-06-20
+55;Megan Leal;3 Daystar Park;3;25;(517) 3725346;Administración;1983-10-12;1992-02-10
+56;Sofie Shackesby;71 Hansons Pass;3;24;(959) 4926664;Recepción;1984-10-01;1992-08-20
+57;Tiena Danton;85604 Northland Circle;95;4;(695) 9974641;Atención al Cliente;1974-04-03;2023-04-29
+58;Shelley Telford;28 Miller Junction;5;24;(696) 5096093;Ventas;1987-12-02;1993-11-02
+59;Anderson Renfree;736 Carey Street;8;16;(663) 9761985;Ventas;1960-12-02;2019-01-08
+60;Sherman Thome;56 Cascade Pass;51;3;(263) 5083960;Ventas;1965-01-06;1994-08-20
+61;Minne Pairpoint;83 Knutson Terrace;90;22;(851) 3512515;Caja;1960-11-27;2014-10-16
+62;Omar Piggot;11 Old Gate Point;92;25;(748) 1541385;Caja;1953-11-02;1991-12-09
+63;Celestyn Truggian;2509 Oakridge Street;41;22;(934) 8994902;Post Venta;1960-01-27;2003-01-29
+64;Maxwell Libreros;268 Fair Oaks Junction;6;18;(187) 8183799;Maestranza;1978-04-15;2004-02-14
+65;Ashlie Preator;7 Prairieview Hill;20;21;(602) 3367646;Depósito;1993-12-08;2022-12-19
+66;Gavan Lampard;10 Swallow Parkway;22;7;(912) 5831650;Administración;1973-11-11;2003-02-09
+67;Welch Wank;294 Badeau Trail;29;12;(607) 8517966;Recepción;1965-08-12;2003-05-20
+68;Inez Isles;2568 Harper Pass;20;18;(213) 3205819;Atención al Cliente;1973-01-25;1993-04-14
+69;Frieda Grimsley;2 Annamark Avenue;42;8;(848) 2787809;Ventas;1982-10-08;2010-07-06
+70;Sheila-kathryn Jevons;85 Everett Park;45;14;(534) 4931322;Ventas;1956-11-23;1995-07-31
+71;Gwenore McLennan;952 Monica Street;63;8;(469) 6918304;Ventas;1953-08-29;2010-08-08
+72;Kermy Beric;74 Fordem Drive;20;17;(983) 6058086;Caja;1996-01-23;2010-10-01
+73;Brenden Lente;75 Stone Corner Junction;18;5;(219) 8084303;Caja;1959-12-09;2011-04-13
+74;Francklyn Gittings;41102 Pawling Crossing;32;25;(130) 2594810;Post Venta;1961-05-29;2023-05-24
+75;Lucila Gadd;36035 Lukken Park;66;9;(606) 8109484;Maestranza;1987-10-29;2015-04-27
+76;Mehetabel Oxberry;864 Tony Crossing;69;2;(487) 1946479;Depósito;1961-03-11;2011-09-10
+77;Jakie Chasles;57721 Forster Hill;15;22;(873) 7588849;Administración;1999-04-23;1991-10-26
+78;Callie Tchaikovsky;39370 Claremont Street;31;26;(625) 9776916;Recepción;1983-02-04;1999-04-04
+79;Normand Blaszczynski;66889 Fulton Alley;1;10;(459) 2100334;Atención al Cliente;1971-01-19;2022-11-09
+80;Lilas Duckwith;8 Saint Paul Park;45;17;(614) 9693292;Ventas;1964-01-17;2015-09-11
+81;Danya Mattusov;6663 Dapin Park;67;19;(329) 9269373;Ventas;1979-01-30;1997-03-27
+82;Wittie Phinn;34 Farragut Way;61;2;(269) 6457485;Ventas;1976-09-02;2002-09-28
+83;Dreddy Lightwing;7406 Buena Vista Drive;75;8;(500) 9887043;Caja;1981-10-31;2018-02-11
+84;Stacee Uebel;5693 Novick Way;53;5;(593) 1203242;Caja;1974-08-24;1995-07-06
+85;Isac Adds;05 Haas Court;54;15;(376) 2407585;Post Venta;1998-03-18;2000-11-18
+86;Cleve Mokes;4 Northland Point;39;24;(571) 1315748;Maestranza;1979-03-05;2017-09-05
+87;Kendell Salsbury;02 Manley Lane;39;2;(991) 7755497;Depósito;2001-11-12;1998-12-23
+88;Brien Scouller;220 Reindahl Court;58;3;(372) 1602983;Administración;1982-12-31;2021-02-24
+89;Aaron Lister;98 Harper Drive;65;12;(539) 7823935;Recepción;1960-08-07;1990-04-13
+90;Ignatius Jennemann;20968 Crowley Park;54;16;(646) 7229521;Atención al Cliente;1987-06-23;1996-11-12
+91;Alameda Caze;2968 Southridge Way;59;14;(427) 8979816;Ventas;2000-08-03;1995-04-12
+92;Terrie Strong;7 Buhler Lane;26;12;(614) 9472231;Ventas;1990-05-09;1992-07-27
+93;Roosevelt Bleacher;63 Crescent Oaks Terrace;42;2;(586) 5178598;Ventas;1999-06-13;2004-04-17
+94;Carter Renne;93 Towne Pass;9;21;(438) 3994491;Caja;1961-04-14;2018-06-22
+95;Rowen Gatheral;8641 Dunning Court;46;22;(548) 3461596;Caja;1954-06-28;2009-05-05
+96;Hamish Milland;9 Toban Trail;88;26;(982) 1986060;Post Venta;1987-08-11;2005-04-17
+97;Roberta Franke;6 Hudson Center;65;6;(113) 1965177;Jefe del Personal;1975-10-14;2010-08-20
+98;Yolanda Cornilli;7 Blue Bill Park Drive;88;11;(931) 8726106;Gerente;1984-06-30;2017-08-14
+99;Kyla Grishanov;09 Main Way;97;5;(956) 3476672;Gerente;1951-12-15;2012-02-27
+100;Lem Svanetti;81201 Bay Place;29;16;(931) 5952455;Director;1958-02-23;2002-05-21

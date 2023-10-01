@@ -1,0 +1,101 @@
+﻿Id Localidad;id Provincia;Nombre;Codigo Postal
+1;1;Abra Pampa;1739
+2;1;San Salvador de Jujuy;2882
+3;1;Humahuaca;4171
+4;1;Susques;7932
+5;2;Aguaray;7536
+6;2;Las Lajitas;1690
+7;2;Cachi;5944
+8;2;Cafayate;5040
+9;3;Belén;5257
+10;3;Andalgalá;8607
+11;3;Recreo;6432
+12;3;Santa María;8935
+13;4;Burruyacú;9497
+14;4;Concepción;5898
+15;4;Famaillá;3583
+16;4;Tafí Viejo;2680
+17;5;La Banda;3261
+18;5;Frías;6754
+19;5;Añatuya;7243
+20;5;Fernández;3548
+21;6;Resistencia;4464
+22;6;Villa Angela;6546
+23;6;Machagal;5598
+24;6;Corzuela;6047
+25;7;Clorinda;3512
+26;7;Pirané;8282
+27;7;El Colorado;2268
+28;7;Las Lomitas;9879
+29;8;Tamberías;8606
+30;8;Caucete;9634
+31;8;Villa Krause;7111
+32;8;Media Agua;8233
+33;9;Chilecito;1104
+34;9;Aimogasta;5776
+35;9;Olta;3305
+36;9;Milagro;7604
+37;10;Godoy Cruz;5890
+38;10;Luján de Cuyo;4802
+39;10;Malargue;9912
+40;10;San Rafael;2434
+41;11;Villa Mercedes;6261
+42;11;Juana Koslay;7077
+43;11;Justo Daract;8828
+44;11;Tilisarao;4949
+45;12;Leones;9890
+46;12;Villa María;8036
+47;12;Oncativo;1708
+48;12;Colonia Caroya;1744
+49;13;Rosario;7158
+50;13;Tostado;7082
+51;13;Carcaraña;8821
+52;13;Sunchales;4669
+53;14;Gualeguay;5575
+54;14;Paraná;7501
+55;14;Concordia;9026
+56;14;Gualeguaychú;9722
+57;15;Bella Vista;2289
+58;15;Empedrado;5139
+59;15;Itatí;8709
+60;15;San Cosme;2032
+61;16;Posadas;3674
+62;16;Oberá;3915
+63;16;Garupá;4268
+64;16;Puerto Iguazú;7298
+65;17;Mar del Plata;6087
+66;17;San Nicolas;4082
+67;17;Olavarría;1153
+68;17;Junin;3538
+69;18;San Telmo;4638
+70;18;Palermo;5987
+71;18;Recoleta;9338
+72;18;Belgrano;7397
+73;19;Santa Rosa;2477
+74;19;General Acha;4935
+75;19;Eduardo Castex;2170
+76;19;Victorica;5385
+77;20;Plottier;5777
+78;20;Cutral Co;4847
+79;20;Centenario;2870
+80;20;Zapala;3109
+81;21;Pilcaniyeu;9705
+82;21;Viedma;7249
+83;21;Valcheta;6649
+84;21;Choele Choel;1568
+85;22;Comodoro Rivadavia;7408
+86;22;Puerto Madryn;2788
+87;22;Trelew;7717
+88;22;Esquel;2036
+89;23;Rio Gallegos;5876
+90;23;Caleta Olivia;3371
+91;23;Puerto Deseado;2296
+92;23;Rio Turbio;9914
+93;24;Ushuaia;1054
+94;24;Río Grande;2235
+95;24;Puerto Almanza;9798
+96;24;Stromness;1947
+97;25;Soledad;3948
+98;25;Gran Malvina;1855
+99;26;Base Orcadas;3102
+100;26;Base Primavera;7596

@@ -1,0 +1,51 @@
+﻿id proveedor;nombre;Cuit;domicilio;id localidad;id provincia;telefono;productos
+1;King, Bradtke and Harris;30-33097788-1;66504 Badeau Circle;81;21;(661) 4539252;Appetizer - Tarragon Chicken
+2;Ernser-Kemmer;30-43172607-0;122 1st Alley;63;8;(425) 1738260;Beef - Texas Style Burger
+3;Pacocha, Braun and Koch;30-03773888-3;40 Riverside Pass;98;7;(340) 1116704;Longos - Chicken Curried
+4;Schaden, Heaney and Anderson;30-89109736-9;79 Karstens Hill;63;15;(384) 1022539;Salami - Genova
+5;Connelly, Watsica and Renner;30-57297614-1;1 Delaware Parkway;75;25;(583) 1405952;Cookies - Englishbay Chochip
+6;Rutherford LLC;30-00571984-2;5188 Starling Circle;28;8;(532) 2795695;Coffee - Decafenated
+7;Cassin-Kutch;30-58222581-1;797 Bluestem Circle;88;22;(596) 5808080;Plate Foam Laminated 9in Blk
+8;Wiza LLC;30-69916261-3;26015 North Center;43;15;(739) 2518716;Puree - Passion Fruit
+9;Ratke, Rulfsdotir and Nicolas;30-69077982-1;676 Harbort Crossing;58;9;(387) 5480358;Soup - Campbells, Butternut
+10;Kilback-Pouros;30-10445082-9;3695 Leroy Alley;24;15;(882) 2883703;Wine - Charddonnay Errazuriz
+11;Gorczany and Sons;30-00377043-7;97 Vahlen Parkway;86;18;(902) 6442700;Cod - Salted, Boneless
+12;Wucket, Winteiser and Spencer;30-82197181-5;2 Stephen Parkway;58;18;(115) 6394459;Lime Cordial - Roses
+13;Emmerich LLC;30-58727184-6;52543 Valley Edge Place;7;2;(588) 6535465;Beer - True North Strong Ale
+14;Wehner, Welch and Saterfield;30-33742017-2;3432 Anhalt Terrace;52;12;(114) 4055369;Juice - V8 Splash
+15;Klocko-Schmeler;30-19247830-2;836 New Castle Crossing;25;14;(714) 9511824;Doilies - 7, Paper
+16;Effertz Group;30-08776423-1;91 Sage Crossing;67;4;(809) 6718536;Wine - Niagara,vqa Reisling
+17;Stracke Inc;30-26574848-8;6 Randy Circle;15;14;(845) 6503122;Shallots
+18;Quigley LLC;30-44716281-7;889 Portage Crossing;82;19;(851) 8910116;Red Currants
+19;Gerhold and Sons;30-51671618-4;66 Carberry Place;96;19;(637) 1756049;Thyme - Dried
+20;Borer-Ferry;30-86965011-1;251 Esker Court;26;13;(308) 3230639;Cheese - Montery Jack
+21;Lebsack, Moen and Haag;30-36578149-6;7063 Main Alley;79;16;(931) 5872411;Lumpfish Black
+22;Klein and Sons;30-90049593-1;1730 Cody Center;76;21;(652) 7096930;Duck - Legs
+23;Heller, Glover and Cremin;30-49298103-0;88023 Dakota Alley;62;4;(469) 5684730;Wiberg Cure
+24;Lueilwitz-Swift;30-81108143-7;19211 Melvin Road;93;2;(172) 2822731;Orange - Tangerine
+25;Dibbert, Feest and Reynolds;30-87525412-4;798 Tennessee Lane;94;26;(718) 6519952;Appetizer - Assorted Box
+26;Johnston Inc;30-55933174-0;263 Michigan Circle;92;12;(377) 6523082;Beef Ground Medium
+27;Hoeger Group;30-81665532-2;68354 Sachs Court;79;7;(293) 7442517;Cheese - Oka
+28;Littel Group;30-01047712-9;9 Forest Run Trail;80;7;(239) 9447065;Pail For Lid 1537
+29;Wolf, Kuvalis and Wyman;30-23250466-6;60 Roth Lane;43;3;(180) 1182216;Nantucket - 518ml
+30;Kreiger and Sons;30-16555630-5;017 Sommers Alley;19;17;(756) 9386950;Wine - Zinfandel Rosenblum
+31;Schmidt-Beahan;30-29085641-0;911 Esker Crossing;50;7;(229) 1243337;Spinach - Baby
+32;Kohler LLC;30-98952892-5;815 Merry Junction;16;1;(973) 9021605;Island Oasis - Cappucino Mix
+33;Reilly, Schuppe and Collins;30-85935543-8;356 Thackeray Trail;38;1;(689) 8317373;Longos - Penne With Pesto
+34;Breitenberg and Sons;30-12138465-7;775 Butterfield Junction;39;4;(157) 6681649;Kumquat
+35;Roob Inc;30-42239528-9;1 Alpine Terrace;43;6;(460) 9875589;Soup - Campbells, Beef Barley
+36;Ferry-Rogahn;30-22928895-5;26646 Fairview Hill;69;22;(998) 1559833;Gatorade - Orange
+37;Hoppe-Legros;30-03474554-2;722 Summerview Terrace;34;26;(539) 4265445;Bag Stand
+38;Kiehn-Ondricka;30-07690396-0;2338 Lillian Center;78;7;(830) 3720239;Bread Ww Cluster
+39;O'Conner Group;30-24991261-0;41 Lakewood Center;75;20;(248) 9039636;Cookies - Englishbay Oatmeal
+40;Spinka-Borer;30-15847317-8;46 Burrows Plaza;63;24;(676) 6389470;Mushroom - Porcini Frozen
+41;Ruecker, Turner and O'Conner;30-79772036-2;64 Menomonie Place;78;11;(905) 1804349;Daikon Radish
+42;Dickens-Blick;30-33146686-3;96695 Lawn Crossing;60;2;(615) 8116936;The Pop Shoppe - Lime Rickey
+43;Ebert, Huel and Sporer;30-23792729-1;09758 Carberry Way;70;26;(606) 1724203;Nut - Walnut, Chopped
+44;O'Conner-Hammes;30-70409302-1;7 Talisman Terrace;43;5;(838) 2368803;Truffle Cups - Brown
+45;Huel, Ortiz and Gleason;30-20091309-9;90 Derek Court;68;14;(339) 5578600;Lamb Shoulder Boneless Nz
+46;Kopelski, Winler and Lubowitz;30-40119457-7;0 Onsgard Terrace;38;18;(864) 2081330;Jack Daniels
+47;Skiles and Sons;30-07185657-6;3 Anniversary Way;61;4;(613) 6043512;Pork - Backs - Boneless
+48;Feil Group;30-43678533-1;78693 Melody Circle;20;12;(410) 7021355;Veal - Heart
+49;Sanford-Kub;30-46080388-3;5153 Becker Drive;58;14;(141) 2040780;Olives - Black, Pitted
+50;Wilderman-Lueilwitz;30-71768428-1;896 Rieder Junction;56;4;(178) 4942126;Absolut Citron
