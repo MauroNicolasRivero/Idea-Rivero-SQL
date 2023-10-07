@@ -1,7 +1,9 @@
 # Idea-Rivero-SQL
-Repositorio para entrega final curso de SQL
+Repositorio destinado para la entrega final curso de SQL
 
-Este repositorio cuenta con varios archivos a ser utilizados de la siguiente manera:
+El archivo Idea.pdf contiene la presentación del trabajo final. También fue incluida la versión en Word.
+
+Este repositorio también cuenta con varios archivos a ser utilizados de la siguiente manera:
 
 1. El primer archivo a utilizar debe ser el de Esquema+Creación_Tablas, en este archivo .SQL encontraremos los scripts necesarios para la creación del Esquema y sus respectivas tablas, es importante respetar el orden de creación de las mismas.
 2. En segundo lugar, para proceder a la población de las tablas, utilizaremos la función "Data table Import Wizard". Hay un tutorial con descripciones paso a paso en el archivo Inserción_Datos.docx. La carpeta Archivos.csv contiene 8 archivos en formato .CSV con los datos de cada tabla creada en el paso 1, estos  serán solicitados por la función del MySQL Workbench para insetar los datos en las tablas.
